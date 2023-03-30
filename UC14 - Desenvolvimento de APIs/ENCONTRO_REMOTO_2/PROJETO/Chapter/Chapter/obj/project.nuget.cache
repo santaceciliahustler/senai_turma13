@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D2aU+T6fVdU5KyegaIBrNPnzmxsepInrKQrqgZoRWOexvG9gjrxqo25FG3kMSWOLXgFjscB1EGIvKKAjnOZ+4Q==",
+  "dgSpecHash": "HCTz1CDEE+of1IZMvRqdMU6RZyOmQJyGOWxL1jxdovMIkWn0uTAZ4SiC2PTEli0t4lQgQpnUo9FWs1wVH7QXLQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lozano\\Desktop\\GitHub\\BET12_FST13\\DESENVOLVIMENTO DE APIS\\ENCONTRO_REMOTO_2\\PROJETO\\Chapter\\Chapter\\Chapter.csproj",
+  "projectFilePath": "C:\\Users\\lozano\\Desktop\\Github\\BET12_FST13\\DESENVOLVIMENTO DE APIS\\ENCONTRO_REMOTO_2\\PROJETO\\Chapter\\Chapter\\Chapter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lozano\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\lozano\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
