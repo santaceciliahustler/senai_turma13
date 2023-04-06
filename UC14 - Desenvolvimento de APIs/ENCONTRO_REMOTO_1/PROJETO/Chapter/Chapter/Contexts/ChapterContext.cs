@@ -20,7 +20,7 @@ namespace Chapter.Contexts
             if(!optionsBuilder.IsConfigured)
             {
                 //cada provedor tem sua sintaxe para especificacao
-                optionsBuilder.UseSqlServer("Data Source = VMLOZANO\\SQLEXPRESS; initial catalog =  Chapter; Integrated Security = true");
+                optionsBuilder.UseSqlServer("Data Source = DESKTOP-V9K2T3I\\SQLEXPRESS; initial catalog =  Chapter; Integrated Security = true");
             }
         }
 

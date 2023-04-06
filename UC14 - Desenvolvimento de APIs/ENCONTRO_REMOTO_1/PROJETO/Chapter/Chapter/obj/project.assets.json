@@ -2123,19 +2123,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lozano\\.nuget\\packages\\": {}
+    "C:\\Users\\Luiz\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lozano\\Desktop\\GitHub\\BET12_FST13\\DESENVOLVIMENTO DE APIS\\ENCONTRO_REMOTO_1\\PROJETO\\Chapter\\Chapter\\Chapter.csproj",
+      "projectUniqueName": "C:\\Users\\Luiz\\Desktop\\Github\\BET12_FST13\\DESENVOLVIMENTO DE APIS\\ENCONTRO_REMOTO_1\\PROJETO\\Chapter\\Chapter\\Chapter.csproj",
       "projectName": "Chapter",
-      "projectPath": "C:\\Users\\lozano\\Desktop\\GitHub\\BET12_FST13\\DESENVOLVIMENTO DE APIS\\ENCONTRO_REMOTO_1\\PROJETO\\Chapter\\Chapter\\Chapter.csproj",
-      "packagesPath": "C:\\Users\\lozano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lozano\\Desktop\\GitHub\\BET12_FST13\\DESENVOLVIMENTO DE APIS\\ENCONTRO_REMOTO_1\\PROJETO\\Chapter\\Chapter\\obj\\",
+      "projectPath": "C:\\Users\\Luiz\\Desktop\\Github\\BET12_FST13\\DESENVOLVIMENTO DE APIS\\ENCONTRO_REMOTO_1\\PROJETO\\Chapter\\Chapter\\Chapter.csproj",
+      "packagesPath": "C:\\Users\\Luiz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Luiz\\Desktop\\Github\\BET12_FST13\\DESENVOLVIMENTO DE APIS\\ENCONTRO_REMOTO_1\\PROJETO\\Chapter\\Chapter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lozano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Luiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2189,7 +2189,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
